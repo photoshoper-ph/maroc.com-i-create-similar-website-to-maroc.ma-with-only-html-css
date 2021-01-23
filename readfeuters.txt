@@ -1,0 +1,4 @@
+hi guys i am following a roadmap to learn how to be a front-end web developer its my first month and i have learned
+html and css and also how to use git & github i am learning javascript whene i finish js i will add it to this website
+
+thanks guys for reading :)
